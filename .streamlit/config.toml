@@ -1,5 +1,5 @@
-[server]
-headless   = true
-enableCORS = false
-port       = ${PORT}
 
+[server]
+headless = true
+enableCORS = false
+port = 7860
