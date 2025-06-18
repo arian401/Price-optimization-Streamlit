@@ -5,7 +5,8 @@ import io
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-API_URL = "https://price-optimization-n20m.onrender.com/predict/"
+#API_URL = "https://price-optimization-n20m.onrender.com/predict/"
+API_URL = "https://arian401-price-optimization.hf.space/predict/"
 
 st.set_page_config(page_title="Price Optimization Predictor", page_icon="💸", layout="wide")
 st.title("💸 Price Optimization – Customer Continuation After Price Increase")
